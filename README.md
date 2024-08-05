@@ -11,9 +11,9 @@ Clone the repository.
 Open the Jupyter notebook and follow the structured steps for data analysis and visualization.
 
 Requirements:
-Python 3.x
-Jupyter Notebook
-pandas
+Python 3.x,
+Jupyter Notebook,
+pandas,
 numpy
-matplotlib
-seaborn
+matplotlib,
+seaborn,
